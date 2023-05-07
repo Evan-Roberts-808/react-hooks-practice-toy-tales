@@ -7,28 +7,10 @@
       "likes": 8
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
       "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
-      "likes": 1
     },
     {
       "id": 6,
@@ -41,6 +23,12 @@
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
       "likes": 0
+    },
+    {
+      "name": "Hamtaro",
+      "image": "https://m.media-amazon.com/images/I/419cQvqtZXS._AC_.jpg",
+      "likes": 50,
+      "id": 8
     }
   ]
 }
